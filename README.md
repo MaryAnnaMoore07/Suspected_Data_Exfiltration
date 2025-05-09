@@ -1,6 +1,5 @@
 ## **🕵️ Data Exfiltration from Employee (PIP'd)** 
 
-![Data Exfiltration](https://github.com/user-attachments/assets/45057475-0243-44b1-bf6c-f136a92f7f8b)
  
 
 ## 📖 Scenario:**  
