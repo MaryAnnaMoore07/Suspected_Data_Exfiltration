@@ -2,11 +2,11 @@
 
  
 
-## 📖 Scenario:**  
+## 📖 Scenario:  
 An employee, John Doe, employed within a high-sensitivity department, was recently placed on a performance improvement plan (PIP) due to ongoing performance concerns. Following a series of behavioral red flags, management suspects that John may be preparing to exfiltrate proprietary data ahead of a potential departure from the organization. As a result, the security team has initiated an investigation focused on John’s assigned corporate device, maryanna-vm-mde, leveraging Microsoft Defender for Endpoint (MDE) to monitor for suspicious or unauthorized activity.
 ---
 
-## 📈 Incident Summary and Findings**  
+## 📈 Incident Summary and Findings 
 
 ### **🗓️ Timeline Overview**  
 1. **📁 Archiving Activity:**  
