@@ -53,7 +53,7 @@ An employee, John Doe, employed within a high-sensitivity department, was recent
 
 
    3. **🌍 Network Exfiltration Check:**  
-   - **Observed Behavior:** I searched around the same time for any evidence of exfiltration from the network, but I didn’t see any logs indicating as such. 
+   - **Observed Behavior:** I searched around the same time for any evidence of exfiltration from the network, but I didn’t see any logs indicating such. 
 
    - **Detection Query (KQL):**  
 
@@ -73,7 +73,7 @@ An employee, John Doe, employed within a high-sensitivity department, was recent
 
 ---
 
-## 🧱 MITRE ATT&CK Framework TTPs**  
+## 🧱 MITRE ATT&CK Framework TTPs 
 
 | **🎯 Tactic**       | **🛠️ Technique**                      | **🆔 ID** | **📄 Description**                                                                                                  |
 | ------------------- | -------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------- |
